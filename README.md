@@ -6,7 +6,7 @@ To get started:
 3. Load the data:
 
         import covid_19_data
-	all_data = covid_19_data.LoadAllJhuData()
-	timeseries = covid_19_data.CreateTimeseries(all_data)
+        all_data = covid_19_data.LoadAllJhuData()
+        timeseries = covid_19_data.CreateTimeseries(all_data)
 
 4. Look at the Example.ipynb notebook for some example plots.
